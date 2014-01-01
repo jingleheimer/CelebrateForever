@@ -1,0 +1,1 @@
+Med/CU and CU – Crowd reaction shots to rant (similar to shot 1K i-iv)
