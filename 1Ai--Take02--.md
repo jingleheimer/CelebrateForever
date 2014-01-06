@@ -15,4 +15,4 @@ Notes: Cool jib you got there.
 ----
 
 
-[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/images/1Ai.JPG align=left
+[GeneralPhoto]: https://github.com/jingleheimer/CelebrateForever/images/1Ai.JPG
