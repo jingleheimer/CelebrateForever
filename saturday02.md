@@ -31,7 +31,7 @@
 
 ![The aisle, final set.]
 
-[Before set decoration.]:  https://github.com/jingleheimer/CelebrateForever/images/Ext_Location.jpg
+[Before set decoration.]:  https://github.com/jingleheimer/CelebrateForever/images/Ext_Location.JPG
 [West side of the courtyard: main wedding set, mid-decoration.]:  https://github.com/jingleheimer/CelebrateForever/images/Ext_NearSide.JPG
 [The aisle, final set.]: https://github.com/jingleheimer/CelebrateForever/images/Ext_Aisle.JPG
 [East side of the courtyard: table settings, mid-decoration.]:  https://github.com/jingleheimer/CelebrateForever/images/Ext_FarSide.JPG

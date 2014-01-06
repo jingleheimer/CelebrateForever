@@ -4,7 +4,7 @@
 
 ### Sound: 1-Groom, 3-Pastor. (Lavs Left, Boom Right)
 
-![GeneralPhoto](https://github.com/jingleheimer/CelebrateForever/images/1Ai.JPG)
+![GeneralPhoto](/images/1Ai.JPG)
 Notes: Cool jib you got there.
 
 | Takes | Description |

@@ -17,6 +17,6 @@
 
 ![Trees in hallway, final set.]
 
-[Before set decoration.]: https://github.com/jingleheimer/CelebrateForever/images/Int_Location.jpg 
+[Before set decoration.]: https://github.com/jingleheimer/CelebrateForever/images/Int_Location.JPG
 [Side table, final set.]: https://github.com/jingleheimer/CelebrateForever/images/Int_SideTable.JPG
 [Trees in hallway, final set.]: https://github.com/jingleheimer/CelebrateForever/images/Int_Hallway.JPG 
