@@ -17,6 +17,6 @@
 
 ![Trees in hallway, final set.]
 
-[Before set decoration.]: /CelebrateForever//images/Int_Location.JPG
+[Before set decoration.]: /CelebrateForever/images/Int_Location.JPG
 [Side table, final set.]: /CelebrateForever/images/Int_SideTable.JPG
 [Trees in hallway, final set.]: /CelebrateForever/images/Int_Hallway.JPG 
