@@ -15,4 +15,4 @@ Notes: Father begins looking directly into camera. If this doesn't work, cut to 
 ----
 
 
-[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/images/3Cii.JPG align=left
+[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/images/3Cii.JPG

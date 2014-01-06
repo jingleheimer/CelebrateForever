@@ -16,4 +16,4 @@ Notes: [EXTENSION OF 2BI]
 ----
 
 
-[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/images/2Ai.JPG align=left
+[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/images/2Ai.JPG

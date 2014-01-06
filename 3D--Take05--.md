@@ -18,4 +18,4 @@ Notes: A little chatter in audio. AUDIO OF WEDDING PLANNER'S LINES AFTER THIS SH
 ----
 
 
-[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/images/3D.JPG align=left
+[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/images/3D.JPG

@@ -18,4 +18,4 @@ Notes: CUT TO FIT DOLLY SHOT (3B).
 ----
 
 
-[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/images/3Ai.JPG align=left
+[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/images/3Ai.JPG

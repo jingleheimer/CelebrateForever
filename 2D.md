@@ -14,4 +14,4 @@ Notes:
 ----
 
 
-[GeneralPhoto]:  "Image Title" align=left
+[GeneralPhoto]:  "Image Title"

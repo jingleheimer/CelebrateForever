@@ -17,4 +17,4 @@ Notes: UP UNTIL NOSE-TOUCHING, EYELINE IS TO CAMERA-RIGHT. AFTER, CAMERA IS ON T
 ----
 
 
-[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/https://github.com/jingleheimer/CelebrateForever/images/2Gi.JPG align=left
+[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/https://github.com/jingleheimer/CelebrateForever/images/2Gi.JPG

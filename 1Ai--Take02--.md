@@ -4,7 +4,7 @@
 
 ### Sound: 1-Groom, 3-Pastor. (Lavs Left, Boom Right)
 
-![GeneralPhoto]
+![GeneralPhoto](https://github.com/jingleheimer/CelebrateForever/images/1Ai.JPG)
 Notes: Cool jib you got there.
 
 | Takes | Description |
@@ -13,6 +13,3 @@ Notes: Cool jib you got there.
 | 02 | RESET FOR PASTOR'S LINES; CAR IN AUDIO |
 
 ----
-
-
-[GeneralPhoto]: https://github.com/jingleheimer/CelebrateForever/images/1Ai.JPG

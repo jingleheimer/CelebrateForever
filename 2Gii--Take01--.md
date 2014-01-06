@@ -14,4 +14,4 @@ Notes: Shot goes past nose-touching, but not in the final eyeline.
 ----
 
 
-[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/https://github.com/jingleheimer/CelebrateForever/images/2Gii.JPG align=left
+[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/https://github.com/jingleheimer/CelebrateForever/images/2Gii.JPG
