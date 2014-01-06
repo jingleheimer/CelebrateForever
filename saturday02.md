@@ -1,6 +1,6 @@
 #Day 2: Saturday, January 4th.
 ## Exterior Location
-![Before set decoration.]
+![EXT]
 
 * 6:00AM - Crew Call Time
 * 8:53AM - [1G](1G--Take05--.md) (Take 5)
@@ -25,13 +25,13 @@
 * 5:01PM - [1Ki](1Ki.md) (UNSLATED)
 * 5:05PM - Wrap
 
-![West side of the courtyard: main wedding set, mid-decoration.]
+![WEST]
 
-![East side of the courtyard: table settings, mid-decoration.]
+![EAST]
 
-![The aisle, final set.]
+![AISLE]
 
-[Before set decoration.]:  /CelebrateForever/images/Ext_Location.JPG
-[West side of the courtyard: main wedding set, mid-decoration.]:  /CelebrateForever/images/Ext_NearSide.JPG
-[The aisle, final set.]: /CelebrateForever/images/Ext_Aisle.JPG
-[East side of the courtyard: table settings, mid-decoration.]: /CelebrateForever/images/Ext_FarSide.JPG
+[EXT]:  /CelebrateForever/images/Ext_Location.JPG "Before set decoration."
+[WEST]:  /CelebrateForever/images/Ext_NearSide.JPG "West side of the courtyard: main wedding set, mid-decoration."
+[AISLE]: /CelebrateForever/images/Ext_Aisle.JPG "The aisle, final set."
+[EAST]: /CelebrateForever/images/Ext_FarSide.JPG "East side of the courtyard: table settings, mid-decoration."

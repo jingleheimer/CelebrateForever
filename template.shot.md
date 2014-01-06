@@ -14,4 +14,4 @@ Notes:
 ----
 
 
-[GeneralPhoto]:  "Image Title"
+[GeneralPhoto]: ProjectFolder/images/Title.JPG "Image Tooltip"
