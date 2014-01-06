@@ -15,4 +15,4 @@ Notes: SAME JIB AS 1Ai, BUT THROUGH ENTIRE SCENE. AUDIO TRACK OF GROOM'S CHANGED
 ----
 
 
-[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/images/1Ai.JPG
+[GeneralPhoto]:  /images/1Ai.JPG

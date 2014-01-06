@@ -19,4 +19,4 @@ Notes: WATCH FLAG, LIGHT ON LEFT FRAME, CROP IF NECESSARY. AUDIO TRACK OF LINES 
 ----
 
 
-[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/images/3Aii.JPG
+[GeneralPhoto]:  /images/3Aii.JPG

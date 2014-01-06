@@ -16,4 +16,4 @@ Notes:
 ----
 
 
-[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/images/3Ci.JPG
+[GeneralPhoto]:  /images/3Ci.JPG

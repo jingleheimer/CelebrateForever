@@ -16,4 +16,4 @@ Notes: After take 1, water fountain is turned off for audio.
 ----
 
 
-[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/images/2K.JPG
+[GeneralPhoto]:  /images/2K.JPG

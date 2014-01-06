@@ -14,4 +14,4 @@ Notes:
 ----
 
 
-[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/images/Dove3.JPG
+[GeneralPhoto]:  /images/Dove3.JPG

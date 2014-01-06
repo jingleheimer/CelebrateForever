@@ -22,4 +22,4 @@ Notes: First shot of the day. WATCH FOR REFLECTIONS IN MIRROR. No focus on slate
 ----
 
 
-[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/images/3B.JPG
+[GeneralPhoto]:  /images/3B.JPG

@@ -15,4 +15,4 @@ Notes: Audio is for Bride's chuckle, as well as ambience.
 ----
 
 
-[GeneralPhoto]:  https://github.com/jingleheimer/CelebrateForever/images/2M.JPG
+[GeneralPhoto]:  /images/2M.JPG
