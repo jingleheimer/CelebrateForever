@@ -1,5 +1,7 @@
-Shot 3C
+# Box 31
 
-| # | Audio | Video |
-|:---|:---|:---|
-| 31 | [Atmosphere SFX] | Groom comes out of the daydream. |
+| Audio | Video |
+|:---|:---|
+| [Atmosphere SFX] | Groom comes out of the daydream. |
+
+* [Shot 3C](3C.md)

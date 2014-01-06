@@ -1,1 +1,0 @@
-CU Groom Reaction Shots Handheld

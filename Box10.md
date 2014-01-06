@@ -1,5 +1,7 @@
-Shot 1G
+# Box 10
 
-| # | Audio | Video |
-|:---|:---|:---|
-| 10 | [Atmosphere SFX] | They nod before the Pastor. |
+| Audio | Video |
+|:---|:---|
+| [Atmosphere SFX] | They nod before the Pastor. |
+
+* [Shot 1G](1G.md)

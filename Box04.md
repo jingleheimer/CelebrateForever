@@ -1,5 +1,7 @@
-Shot 1Aiii
+# Box 4
 
-| # | Audio | Video |
-|:---|:---|:---|
-| 04 | [Atmosphere SFX] | Pan across front row. |
+| Audio | Video |
+|:---|:---|
+| [Atmosphere SFX] | Pan across front row. |
+
+* {NO SHOTS FOR THIS BOX.}

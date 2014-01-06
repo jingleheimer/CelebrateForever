@@ -1,5 +1,7 @@
-Shot 1Aii
+# Box 2
 
-| # | Audio | Video |
-|:---|:---|:---|
-| 02 | [Atmosphere SFX] | Small, elegant, yet simple. |
+| Audio | Video |
+|:---|:---|
+| [Atmosphere SFX] | Small, elegant, yet simple. |
+
+* {NO SHOTS FOR THIS BOX.}

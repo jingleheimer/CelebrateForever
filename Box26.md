@@ -1,5 +1,7 @@
-Shot 1G
+# Box 26
 
-| # | Audio | Video |
-|:---|:---|:---|
-| 26 | [Atmosphere SFX] | Bride does the same. |
+| Audio | Video |
+|:---|:---|
+| [Atmosphere SFX] | Bride does the same. |
+
+* [Shot 1G](1G.md)

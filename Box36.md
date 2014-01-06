@@ -1,5 +1,7 @@
-Shot 3C
+# Box 36
 
-| # | Audio | Video |
-|:---|:---|:---|
-| 36 | Dad: “Well, are you?” | Dad tries to snap him out of it.! |
+| Audio | Video |
+|:---|:---|
+| Dad: “Well, are you?” | Dad tries to snap him out of it.! |
+
+* [Shot 3C](3C.md)

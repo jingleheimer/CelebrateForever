@@ -1,5 +1,7 @@
-Shot 3B
+# Box 34
 
-| # | Audio | Video |
-|:---|:---|:---|
-| 34 | Groom: “Yeah... yeah, Dad. I’m okay.” | POV of man.! |
+| Audio | Video |
+|:---|:---|
+| Groom: “Yeah... yeah, Dad. I’m okay.” | POV of man.! |
+
+* [Shot 3B](3B.md)

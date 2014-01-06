@@ -1,5 +1,7 @@
-Shot 1J
+# Box 12
 
-| # | Audio | Video |
-|:---|:---|:---|
-| 12 | [Atmosphere SFX] | He looks delicately into her eyes.! |
+| Audio | Video |
+|:---|:---|
+| [Atmosphere SFX] | He looks delicately into her eyes.! |
+
+* {Any of the Groom's reaction shots should contain this beat.}

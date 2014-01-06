@@ -1,5 +1,7 @@
-Shot 1C
+# Box 6
 
-| # | Audio | Video |
-|:---|:---|:---|
-| 06 | [Atmosphere SFX] | GIRL looks at boy.! |
+| Audio | Video |
+|:---|:---|
+| [Atmosphere SFX] | GIRL looks at boy. |
+
+* [Shot 1C](1C.md)

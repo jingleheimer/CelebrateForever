@@ -1,1 +1,0 @@
-# Jib over audience – Wide (from front)

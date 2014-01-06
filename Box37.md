@@ -1,5 +1,7 @@
-Shot 3Ai (or 3Aii)
+# Box 37
 
-| # | Audio | Video |
-|:---|:---|:---|
-| 37 | Groom: “Absolutely.” | Straightens his tie and shakes it off.! |
+| Audio | Video |
+|:---|:---|
+| Groom: “Absolutely.” | Straightens his tie and shakes it off.! |
+
+* [Shot 3Ai](3Ai.md) & [3Aii](3Aii.md)

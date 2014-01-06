@@ -1,5 +1,7 @@
-Shot 1H
+# Box 11
 
-| # | Audio | Video |
-|:---|:---|:---|
-| 11 | [Atmosphere SFX] | She looks lovingly at him.! |
+| Audio | Video |
+|:---|:---|
+| [Atmosphere SFX] | She looks lovingly at him. |
+
+* {Any of the bride's reaction shots contain this moment.}

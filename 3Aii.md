@@ -1,1 +1,0 @@
-CU Groom – standing up (end of scene PU if necessary)*
