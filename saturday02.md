@@ -31,7 +31,7 @@
 
 ![The aisle, final set.]
 
-[Before set decoration.]:  /images/Ext_Location.JPG
-[West side of the courtyard: main wedding set, mid-decoration.]:  /images/Ext_NearSide.JPG
-[The aisle, final set.]: /images/Ext_Aisle.JPG
-[East side of the courtyard: table settings, mid-decoration.]:  /images/Ext_FarSide.JPG
+[Before set decoration.]:  /CelebrateForever/images/Ext_Location.JPG
+[West side of the courtyard: main wedding set, mid-decoration.]:  /CelebrateForever/images/Ext_NearSide.JPG
+[The aisle, final set.]: /CelebrateForever/images/Ext_Aisle.JPG
+[East side of the courtyard: table settings, mid-decoration.]: /CelebrateForever/images/Ext_FarSide.JPG

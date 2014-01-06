@@ -16,4 +16,4 @@ Notes: [EXTENSION OF 2BI]
 ----
 
 
-[GeneralPhoto]:  /images/2Ai.JPG
+[GeneralPhoto]:  /CelebrateForever/images/2Ai.JPG

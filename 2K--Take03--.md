@@ -16,4 +16,4 @@ Notes: After take 1, water fountain is turned off for audio.
 ----
 
 
-[GeneralPhoto]:  /images/2K.JPG
+[GeneralPhoto]:  /CelebrateForever/images/2K.JPG

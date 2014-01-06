@@ -18,4 +18,4 @@ Notes: Focus begins on Pastor, moves to Bride and Groom. TAKES 2-4, NO PASTOR EN
 ----
 
 
-[GeneralPhoto]:  /images/1G.JPG
+[GeneralPhoto]:  /CelebrateForever/images/1G.JPG

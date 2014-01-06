@@ -15,4 +15,4 @@ Notes: Father begins looking directly into camera. If this doesn't work, cut to 
 ----
 
 
-[GeneralPhoto]:  /images/3Cii.JPG
+[GeneralPhoto]:  /CelebrateForever/images/3Cii.JPG

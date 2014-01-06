@@ -18,4 +18,4 @@ Notes: TAKES 1-4, LINE CHANGE IN BOX 7: "are loyal, faithful" instead of "will b
 ----
 
 
-[GeneralPhoto]:  /images/1F.JPG
+[GeneralPhoto]:  /CelebrateForever/images/1F.JPG

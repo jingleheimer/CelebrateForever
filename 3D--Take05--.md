@@ -18,4 +18,4 @@ Notes: A little chatter in audio. AUDIO OF WEDDING PLANNER'S LINES AFTER THIS SH
 ----
 
 
-[GeneralPhoto]:  /images/3D.JPG
+[GeneralPhoto]:  /CelebrateForever/images/3D.JPG

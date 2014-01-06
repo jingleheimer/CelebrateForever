@@ -22,4 +22,4 @@ Notes: First shot of the day. WATCH FOR REFLECTIONS IN MIRROR. No focus on slate
 ----
 
 
-[GeneralPhoto]:  /images/3B.JPG
+[GeneralPhoto]:  /CelebrateForever/images/3B.JPG

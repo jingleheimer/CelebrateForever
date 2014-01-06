@@ -19,4 +19,4 @@ Notes: WATCH FLAG, LIGHT ON LEFT FRAME, CROP IF NECESSARY. AUDIO TRACK OF LINES 
 ----
 
 
-[GeneralPhoto]:  /images/3Aii.JPG
+[GeneralPhoto]:  /CelebrateForever/images/3Aii.JPG

@@ -14,4 +14,4 @@ Notes:
 ----
 
 
-[GeneralPhoto]:  /images/Dove3.JPG
+[GeneralPhoto]:  /CelebrateForever/images/Dove3.JPG

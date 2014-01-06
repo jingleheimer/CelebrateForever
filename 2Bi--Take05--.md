@@ -18,4 +18,4 @@ Notes: WATCH FOR POWER CORD ON GROUND AT BEGINNING OF SHOT. SAME SHOT AS 2Ai.
 ----
 
 
-[GeneralPhoto]:  /images/2Bi.JPG
+[GeneralPhoto]:  /CelebrateForever/images/2Bi.JPG

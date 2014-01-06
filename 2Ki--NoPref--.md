@@ -16,4 +16,4 @@ Notes: SAME AS STARTING POINT OF 2K.
 ----
 
 
-[GeneralPhoto]:  /images/Dove6.JPG
+[GeneralPhoto]:  /CelebrateForever/images/Dove6.JPG
