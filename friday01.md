@@ -1,6 +1,6 @@
 # Day 1: Friday, January 3rd
 ## Interior Location
-![Before set decoration.] 
+![INT] 
 
 * 9:00AM - Crew Call
 * 10:00AM - Cast Call
@@ -13,10 +13,10 @@
 * 4:42PM - [3Cii](3Cii--Take02--.md) (Take 2)
 * 4:50PM - Wrap
 
-![Side table, final set.]
+![TABLE]
 
-![Trees in hallway, final set.]
+![HALLWAY]
 
-[Before set decoration.]: /CelebrateForever/images/Int_Location.JPG
-[Side table, final set.]: /CelebrateForever/images/Int_SideTable.JPG
-[Trees in hallway, final set.]: /CelebrateForever/images/Int_Hallway.JPG 
+[INT]: /CelebrateForever/images/Int_Location.JPG "Before set decoration."
+[TABLE]: /CelebrateForever/images/Int_SideTable.JPG "Side table, final set."
+[HALLWAY]: /CelebrateForever/images/Int_Hallway.JPG "Trees in hallway, final set."
