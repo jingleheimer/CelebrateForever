@@ -4,7 +4,7 @@
 
 ### Sound: 1-Groom, 3-Pastor. (Lavs Left, Boom Right)
 
-![GeneralPhoto](/CelebrateForever/images/1Ai.JPG)
+![GeneralPhoto](1Ai.JPG)
 Notes: Cool jib you got there.
 
 | Takes | Description |
