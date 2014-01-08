@@ -1,4 +1,4 @@
-# MED-CU Father standing in chair; enters, walks down aisle; camera facing him ("Real Housewives...")
+# 2Ai: MED-CU Father standing in chair; enters, walks down aisle; camera facing him ("Real Housewives...")
 
 ## Camera: Dolly Back, 50mm ND1.2: Card A003
 

@@ -1,4 +1,4 @@
-# 50mm-150mm Zoom – Man stands up
+# 2Ki: 50mm-150mm Zoom – Man stands up
 
 ## Camera: Static Zoom on Sticks, 50-150mm: Card A003
 

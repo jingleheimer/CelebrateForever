@@ -1,4 +1,4 @@
-# CU Groom – waking up, reacting to Father, Wedding Planner (up to Groom standing up)
+# 2Ai: CU Groom – waking up, reacting to Father, Wedding Planner (up to Groom standing up)
 
 ## Camera: Static on Sticks, 85mm: Card A001
 

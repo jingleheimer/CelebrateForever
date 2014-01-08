@@ -1,4 +1,4 @@
-# CU Reaction Shots of Pastor, Bride, Groom (Begin at Pastor's last line, through to nose-touching).
+# 2Gii: CU Reaction Shots of Pastor, Bride, Groom (Begin at Pastor's last line, through to nose-touching).
 
 ## Camera: Handheld, 85mm ND1.2: Card A002
 

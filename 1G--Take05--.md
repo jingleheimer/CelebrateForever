@@ -1,4 +1,4 @@
-# MED Bride, Groom, Pastor – Static (through Pastor's end line)
+# 1G: MED Bride, Groom, Pastor – Static (through Pastor's end line)
 
 ## Camera: Static on Sticks, 35mm ND1.2 & 3: Card A002
 

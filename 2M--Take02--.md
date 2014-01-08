@@ -1,4 +1,4 @@
-# OTS Bride – Static (BRIDE'S ANGLE OF 2Gi, BEGINNING OF SCENE)
+# 2M: OTS Bride – Static (BRIDE'S ANGLE OF 2Gi, BEGINNING OF SCENE)
 
 ## Camera: Static on Sticks, 85mm ND1.2: Card A002
 

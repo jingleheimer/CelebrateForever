@@ -1,4 +1,4 @@
-# Med/Wide – 2 Shot – Curved track Dolly moving left to right (Man wakes up) – (whole scene)
+# 3B: Med/Wide – 2 Shot – Curved track Dolly moving left to right (Man wakes up) – (whole scene)
 
 ## Camera: Dolly Pan, 25mm: Card A001
 

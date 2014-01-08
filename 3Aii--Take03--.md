@@ -1,4 +1,4 @@
-# MED-CU OTS Groom Tilt-Up – standing up
+# 3Aii: MED-CU OTS Groom Tilt-Up – standing up
 
 ## Camera: Tilt-Up on Sticks: Card A001
 

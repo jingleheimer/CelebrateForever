@@ -1,4 +1,4 @@
-# Med/CU – Wedding Planner
+# 3D: Med/CU – Wedding Planner
 
 ## Camera: Static on Dolly, 100mm: Card A001
 

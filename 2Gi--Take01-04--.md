@@ -1,4 +1,4 @@
-# Med/CU OTS – Groom (reaction to Father's lines), Pastor in background.
+# 2Gi: Med/CU OTS – Groom (reaction to Father's lines), Pastor in background.
 
 ## Camera: Static on Sticks, 85mm ND1.2: Card A002
 

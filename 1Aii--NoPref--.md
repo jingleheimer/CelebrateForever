@@ -1,4 +1,4 @@
-# Jib over audience – Wide Sweep, stopping in the aisle.
+# 1Aii: Jib over audience – Wide Sweep, stopping in the aisle.
 
 ## Camera: Jib Down, 35mm: Card A003
 
@@ -15,4 +15,4 @@ Notes: SAME JIB AS 1Ai, BUT THROUGH ENTIRE SCENE. AUDIO TRACK OF GROOM'S CHANGED
 ----
 
 
-[GeneralPhoto]:  CelebrateForever/images/1Ai.JPG
+[GeneralPhoto]:  /CelebrateForever/images/1Ai.JPG

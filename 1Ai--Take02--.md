@@ -1,10 +1,10 @@
-# Jib over audience – Wide Sweep, stopping in the aisle.
+# 1Ai: Jib over audience – Wide Sweep, stopping in the aisle.
 
 ## Camera: Jib Down, 35mm: Card A004
 
 ### Sound: 1-Groom, 3-Pastor. (Lavs Left, Boom Right)
 
-![GeneralPhoto](CelebrateForever/images/1Ai.JPG)
+![GeneralPhoto](/CelebrateForever/images/1Ai.JPG)
 Notes: Cool jib you got there.
 
 | Takes | Description |

@@ -1,4 +1,4 @@
-# Med/CU and CU – Crowd reaction shots to rant (similar to shot 1Ki)
+# 2Ei: Med/CU and CU – Crowd reaction shots to rant (similar to shot 1Ki)
 
 ## Camera: Static on Sticks, 100mm: Card A004
 

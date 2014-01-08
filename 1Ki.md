@@ -1,4 +1,4 @@
-# Med/CU and CU – Crowd reaction shots to “or forever hold your peace”)
+# 1Ki: Med/CU and CU – Crowd reaction shots to “or forever hold your peace”)
 
 ## Camera: Static on Sticks, 50mm: Card A004
 

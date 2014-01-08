@@ -1,4 +1,4 @@
-# MED-WIDE Man standing in chair (top of scene to "And so what if you've known...")
+# 2K: MED-WIDE Man standing in chair (top of scene to "And so what if you've known...")
 
 ## Camera: Pan on Sticks, 50mm: Card A003
 
